@@ -1,2 +1,2 @@
 # belajar_kolaborasi
-### test sequashing
+### test sequashing and merge 
