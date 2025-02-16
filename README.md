@@ -1,3 +1,3 @@
 # belajar_kolaborasi
-### test sequashing and merge di branch baru
+### test sequashing and merge
 ## agar menjadi satu commitnya dalam pull request
